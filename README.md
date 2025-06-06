@@ -1,7 +1,7 @@
 Python CI Demo
 
 # Pylint report
-[![Pylint](https://github.com/caia-techblr/actions/workflows/pylint.yml/badge.svg)](https://github.com/caia-techblr/python-ci-demo/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/caia-techblr/python-ci-demo/actions/workflows/pylint.yml/badge.svg)](https://github.com/caia-techblr/python-ci-demo/actions/workflows/pylint.yml)
 
 # Pytest report
 
